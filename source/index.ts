@@ -1,7 +1,7 @@
 import * as XRegExp from 'xregexp';
 
 const quote = `('|")`;
-const spaceAnything = `\\s+.*`
+const spaceAnything = `\\s+.*?`
 const pattern = `
     (?<styleSheetLink>
         <link
