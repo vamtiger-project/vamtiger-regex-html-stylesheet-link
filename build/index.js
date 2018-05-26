@@ -2,7 +2,7 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 const XRegExp = require("xregexp");
 const quote = `('|")`;
-const spaceAnything = `\\s+.*`;
+const spaceAnything = `\\s+.*?`;
 const pattern = `
     (?<styleSheetLink>
         <link

@@ -1,6 +1,6 @@
 {
     "name": "vamtiger-regex-html-stylesheet-link",
-    "version": "0.0.3",
+    "version": "0.0.4-0",
     "description": "A regular expression to match a HTML stylesheet link for defined HTML document text.",
     "main": "build",
     "scripts": {
