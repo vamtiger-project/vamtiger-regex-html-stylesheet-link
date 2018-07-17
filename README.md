@@ -1,4 +1,4 @@
-# VAMTIGER Bash
+# VAMTIGER Regex HTML Stylesheet Link
 A [regular expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) to match a HTML stylesheet link for defined HTML document text.
 
 ## Installation

@@ -1,6 +1,6 @@
 {
     "name": "vamtiger-regex-html-stylesheet-link",
-    "version": "0.0.4",
+    "version": "0.0.5-0",
     "description": "A regular expression to match a HTML stylesheet link for defined HTML document text.",
     "main": "build",
     "scripts": {
@@ -33,7 +33,7 @@
         "chai": "^4.1.2",
         "mocha": "^5.2.0",
         "typescript": "^2.8.3",
-        "vamtiger-node-typescript-commit": "0.0.51"
+        "vamtiger-node-typescript-commit": "latest"
     },
     "dependencies": {
         "xregexp": "^4.1.1"
